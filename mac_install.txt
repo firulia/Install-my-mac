@@ -4,6 +4,7 @@ Brew install: https://brew.sh/index_ru
 
 //--------------------------------------------------------
 
+install git and autocomplete: brew install git bash-completion
 
 install vscode: https://formulae.brew.sh/cask/visual-studio-code
 
@@ -57,5 +58,8 @@ brew install --cask postman
 
 i bat = cat
 brew install bat
+
+--------------------------------------------------------
+i deepl: brew install --cask deepl
 
 --------------------------------------------------------
