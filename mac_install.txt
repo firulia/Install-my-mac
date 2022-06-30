@@ -1,0 +1,61 @@
+Brew install: https://brew.sh/index_ru
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+//--------------------------------------------------------
+
+
+install vscode: https://formulae.brew.sh/cask/visual-studio-code
+
+brew install --cask visual-studio-code
+
+--------------------------------------------------------
+
+i python: 
+
+brew install python
+
+--------------------------------------------------------
+
+i JDK:
+
+brew install java
+--------------------------------------------------------
+
+i IntelliJ Idea:
+
+brew install --cask intellij-idea         Ultimate: Lizens??????
+
+Community Edition: brew install --cask intellij-idea-ce
+
+
+--------------------------------------------------------
+
+brew i wget: brew install wget
+
+--------------------------------------------------------
+
+brew i curl: brew install curl
+
+--------------------------------------------------------
+
+i alfred: brew install --cask alfred
+
+--------------------------------------------------------
+
+in httpie = curl
+
+brew install httpie
+
+--------------------------------------------------------
+
+i postman
+
+brew install --cask postman
+
+--------------------------------------------------------
+
+i bat = cat
+brew install bat
+
+--------------------------------------------------------
